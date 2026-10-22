@@ -1,0 +1,19 @@
+BRILLA — CATÁLOGO WEB
+=====================
+
+Contenido:
+- index.html: catálogo interactivo.
+- imagenes/: fotografías de productos usadas en el catálogo.
+
+CÓMO PUBLICAR EN NETLIFY DROP
+1. Descomprime este ZIP si la plataforma te pide una carpeta.
+2. Abre https://app.netlify.com/drop desde Safari o un computador.
+3. Arrastra la carpeta brilla_catalogo_web o selecciona su contenido, según la opción que aparezca.
+4. Asegúrate de que index.html quede en la raíz del sitio y la carpeta imagenes quede junto a él.
+5. Cuando Netlify publique el sitio, abre el enlace y comprueba que carguen las fotos.
+
+IMPORTANTE
+- El botón de WhatsApp sigue teniendo un número de ejemplo: 57XXXXXXXXXX.
+- Antes de anunciar el catálogo, hay que reemplazar ese valor por el número comercial real.
+- El botón “Preparar pedido web” genera un resumen, pero no guarda pedidos en una base de datos.
+- Los precios y descuentos del catálogo son los que definimos: caja de velas $18.000; portavelas $15.000; kit Año Viejo $20.000; combos $32.000, $36.900 y $50.400.
